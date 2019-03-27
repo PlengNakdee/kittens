@@ -16,7 +16,7 @@ Using deep learning to determine whether a nodule is malignant or not.
 Simulate an election application with blockchain.
 
 <a href="https://github.com/PlengNakdee/blockchain_election">
-<img src="image/full2.png"></a>
+<img src="image/block1.png"> <img src="image/block2.png"></a>
 
 ## Trading Bot
 
