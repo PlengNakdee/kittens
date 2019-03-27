@@ -1,8 +1,7 @@
-title: Woradanue Nakdee (Pleng) # your name (or website title) here
-logo: "/images/0.png" # your photo (or logo) here
+title: Woradanue Nakdee (Pleng)
 description: Even though my previous experience was in film and TV production, I decided to change my career after learning how to code. I enjoy the analytical and problem solving aspects that came with coding.
 <br><br>
 I’m currently a graduate student in computer science and particularly interested in deep learning. I can work in both team and individual settings, with strong work ethic and drive to success.
 show_downloads: true
-google_analytics: UA-59954766-1 # your Google Analytics tracking ID here
+google_analytics:
 theme: jekyll-theme-cayman
