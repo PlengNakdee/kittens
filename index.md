@@ -1,3 +1,4 @@
+<a href="https://www.linkedin.com/in/plengnakdee/">View My LinkIn<a>
 ---
 layout: default
 ---
@@ -5,6 +6,8 @@ layout: default
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
+
+[Deep Learning](./hello-world).
 
 There should be whitespace between paragraphs.
 
