@@ -1,0 +1,11 @@
+title: Woradanue Nakdee (Pleng) # your name (or website title) here
+logo: "/images/0.png" # your photo (or logo) here
+description: # your text below (remove <br> elements if you don't need line breaks)
+  I decided to change my career after learning how to code. I enjoy the analytical and problem solving aspects that came with coding. 
+  <br><br>
+  I’m currently a graduate student in computer science and particularly interested in deep learning. 
+  I can work in both team and individual settings, with strong work ethic and drive to success.
+  <br><br>
+  <a href="https://www.linkedin.com/in/plengnakdee/">View My LinkedIn Profile</a> 
+google_analytics: UA-59954766-1 # your Google Analytics tracking ID here
+theme: jekyll-theme-cayman
