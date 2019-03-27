@@ -6,7 +6,7 @@ Here are some of my projects.
 
 ## Deep Learning
 <a href="https://github.com/PlengNakdee/hello-world">
-<img src="image/full2.png"></a>
+<img src="image/full2.png"> <img src="image/full1.png"></a>
 
 ## Blockchain
 <a href="https://github.com/PlengNakdee/hello-world">
