@@ -25,4 +25,4 @@ Simulate an election application with blockchain.
 A simple cryptocurrency trading bot.
 
 <a href="https://github.com/PlengNakdee/Class-Project/blob/master/trading_bot">
-<img src="image/full2.png"></a>
+<img src="image/bit1.jpg"> <img src="image/bit2.jpg"></a>
