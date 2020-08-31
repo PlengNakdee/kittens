@@ -1,6 +1,6 @@
 <a href="https://www.linkedin.com/in/plengnakdee/">View My LinkIn Profile</a>
 
-<a href="https://github.com/PlengNakdee/plengnakdee.github.io/blob/master/Resume_2019.pdf">View My Resume</a>
+<a href="https://github.com/PlengNakdee/plengnakdee.github.io/blob/master/Resume_aug_2020.pdf">View My Resume</a>
 
 # Project
 
