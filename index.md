@@ -6,7 +6,14 @@
 
 Here are some of my projects.
 
-## Deep Learning
+## Face Detection
+
+Using deep learning to detect emotion and age from faces.
+
+<a href="https://github.com/PlengNakdee/emotion_age_detection">
+<img src="image/full2.png"> <img src="image/full1.png"></a>
+
+## Deep Lung
 
 Using deep learning to determine whether a nodule is malignant or not.
 
