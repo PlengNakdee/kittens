@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hithub.io/kittens/static/css/main.24b5a38b.chunk.css",
+    "main.js": "/hithub.io/kittens/static/js/main.191f5ff7.chunk.js",
+    "main.js.map": "/hithub.io/kittens/static/js/main.191f5ff7.chunk.js.map",
+    "runtime-main.js": "/hithub.io/kittens/static/js/runtime-main.092fb462.js",
+    "runtime-main.js.map": "/hithub.io/kittens/static/js/runtime-main.092fb462.js.map",
+    "static/js/2.b1684427.chunk.js": "/hithub.io/kittens/static/js/2.b1684427.chunk.js",
+    "static/js/2.b1684427.chunk.js.map": "/hithub.io/kittens/static/js/2.b1684427.chunk.js.map",
+    "static/js/3.0e5bf021.chunk.js": "/hithub.io/kittens/static/js/3.0e5bf021.chunk.js",
+    "static/js/3.0e5bf021.chunk.js.map": "/hithub.io/kittens/static/js/3.0e5bf021.chunk.js.map",
+    "index.html": "/hithub.io/kittens/index.html",
+    "static/css/main.24b5a38b.chunk.css.map": "/hithub.io/kittens/static/css/main.24b5a38b.chunk.css.map",
+    "static/js/2.b1684427.chunk.js.LICENSE.txt": "/hithub.io/kittens/static/js/2.b1684427.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.092fb462.js",
+    "static/js/2.b1684427.chunk.js",
+    "static/css/main.24b5a38b.chunk.css",
+    "static/js/main.191f5ff7.chunk.js"
+  ]
+}
